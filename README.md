@@ -1,5 +1,7 @@
-# About
-This is a simple react-app without create-react-app
+## About
+Before starting with any React application we open up the terminal and fire up this command `npx create-react-app my-app` and what this command CRA (Create React App) does is, it gives us a boiler plate code for getting started with the react application. But CRA comes with extra dependencies which your project might need and furthing add to the file size.
+For example, CRA by default comes with SASS loader but you will only be using CSS then there is no use for the SASS loader.
+But by making your own custom boiler plate you can actually install only those plugins which you will be needing, thus saving size.
 
 ### Steps
 #### 1. Creating the folder
@@ -139,4 +141,7 @@ npm install --dev style-loader css-loader file-loader
 ```
 
 #### 11. Final
-Now make a basic React App and run `npm start` and on your app will run on `localhost:8080`.
+After completing all of the above steps and creating files, the folder structure will look like this:
+![image](https://user-images.githubusercontent.com/54995707/147209628-03e539a7-bc4b-47ce-9e4b-4f45564cb639.png)
+
+Now you can make any React App and run `npm start` in the terminal and on your app will run on `localhost:8080`!! 🚀🚀
