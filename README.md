@@ -141,7 +141,7 @@ npm install --dev style-loader css-loader file-loader
 ```
 
 #### 11. Final
-After completing all of the above steps and creating files, the folder structure will look like this:
+After completing all of the above steps and creating files, the folder structure will look like this: <br />
 ![image](https://user-images.githubusercontent.com/54995707/147209628-03e539a7-bc4b-47ce-9e4b-4f45564cb639.png)
 
 Now you can make any React App and run `npm start` in the terminal and on your app will run on `localhost:8080`!! 🚀🚀
